@@ -1,5 +1,5 @@
 {
-  "name": "react-quiz-component",
+  "name": "react-quiz-builder",
   "version": "0.1.0",
   "description": "React Quiz Component",
   "main": "dist/Quiz.js",

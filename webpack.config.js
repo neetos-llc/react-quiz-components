@@ -8,8 +8,9 @@ module.exports = {
     Quiz: './src/lib/Quiz.jsx',
   },
   output: {
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'dist/cjs'),
     filename: '[name].js',
+    libraryTarget: 'commonjs',
   },
   module: {
     rules: [

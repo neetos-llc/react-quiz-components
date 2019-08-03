@@ -45,6 +45,10 @@ module.exports = {
       '.jsx',
     ],
   },
+  externals: [
+    'react',
+    'react-dom',
+  ],
   devServer: {
     contentBase: path.join(__dirname, 'docs'),
     port: 8000,

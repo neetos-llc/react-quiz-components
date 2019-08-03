@@ -2,7 +2,7 @@
   "name": "react-quiz-components",
   "version": "0.3.0",
   "description": "React Quiz Components",
-  "main": "dist/cjs/Quiz.js",
+  "main": "dist/cjs2/Quiz.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
     "build": "webpack --mode production"

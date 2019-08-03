@@ -43,10 +43,10 @@
     "webpack-cli": "^2.0.15",
     "webpack-dev-server": "^3.1.14"
   },
-  "homepage": "https://github.com/neetos-open/react-quiz-component",
+  "homepage": "https://github.com/neetos-open/react-quiz-builder",
   "repository": {
     "type": "git",
-    "url": "https://github.com/neetos-open/react-quiz-component.git"
+    "url": "https://github.com/neetos-open/react-quiz-builder.git"
   },
   "dependencies": {
     "marked": "^0.7.0"

@@ -1,7 +1,7 @@
 {
-  "name": "react-quiz-builder",
+  "name": "react-quiz-components",
   "version": "0.1.0",
-  "description": "React Quiz Component",
+  "description": "React Quiz Components",
   "main": "dist/Quiz.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
@@ -43,10 +43,10 @@
     "webpack-cli": "^2.0.15",
     "webpack-dev-server": "^3.1.14"
   },
-  "homepage": "https://github.com/neetos-open/react-quiz-builder",
+  "homepage": "https://github.com/neetos-open/react-quiz-components",
   "repository": {
     "type": "git",
-    "url": "https://github.com/neetos-open/react-quiz-builder.git"
+    "url": "https://github.com/neetos-open/react-quiz-components.git"
   },
   "dependencies": {
     "marked": "^0.7.0"
